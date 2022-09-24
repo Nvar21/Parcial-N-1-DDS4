@@ -1,0 +1,76 @@
+nav {
+  float: right;
+  margin-top: -100px;
+  margin-right: 100;
+  padding-right: 150px;
+}
+
+.menu-item a {
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 10px;
+  background-color: black;
+}
+.sobresalta a {
+  background-color: #e71010;
+}
+
+.menu-item a:hover {
+  background-color: #e71010;
+}
+
+ul > li {
+  display: inline-block;
+  margin: 15px;
+}
+#logo-img {
+  width: 150px;
+  height: 150px;
+}
+
+.titulo {
+  text-align: left;
+  padding: 10px;
+  background-color: #587df7;
+  margin: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+  color: white;
+}
+
+.img {
+  float: left;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.img-oferta {
+  max-width: 25%;
+}
+.img-modelos {
+  max-width: 100%;
+}
+.img-pie-de-pagina {
+  max-height: 50%;
+}
+.subtitulo {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+  color: rgb(238, 105, 105);
+  margin-left: 80px;
+}
+input {
+  float: right;
+  margin: 10px;
+  margin-top: -25px;
+  width: 100;
+}
+
+.section {
+  background-color: #587df7;
+  padding: 10px;
+}
